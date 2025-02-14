@@ -37,5 +37,8 @@ if uploaded_file is not None:
     predicted_species = species_list[np.argmax(prediction)]
     confidence = np.max(prediction)
 
+    prediction = model.predict(image)
+    print("Raw predictions:", prediction)  # Debugging step
+
     st.write(f"Predicted Species: **{predicted_species}**")
     st.write(f"Confidence Score: **{confidence:.2f}**")
