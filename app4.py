@@ -5,6 +5,9 @@ from PIL import Image
 import cv2
 import boto3
 
+import os
+os.system("pip install opencv-python-headless")
+
 # AWS S3 Configuration
 S3_BUCKET_NAME = "suprith0230"
 S3_MODEL_PATH = "wildlife_model.h5"
