@@ -5,11 +5,9 @@ streamlit
 Pillow
 matplotlib
 seaborn
-streamlit
 boto3
-libgl1
-libglib2.0-0
 tensorflow==2.12.0
 numpy==1.23.5
 pandas==1.5.3
 scikit-learn==1.3.0
+opencv-python-headless
