@@ -21,7 +21,7 @@ species_list = ["Coyote", "Elephant", "Lion"]
 
 st.title("WildTrack AI: Wildlife Footprint Classification")
 
-uploaded_file = st.file_uploader("Upload a footprint image", type=["jpg", "png", "jpeg"])
+uploaded_file = st.file_uploader("Upload a footprint image", type=["jpg", "jpg", "jpg"])
 
 if uploaded_file is not None:
     image = Image.open(uploaded_file)
