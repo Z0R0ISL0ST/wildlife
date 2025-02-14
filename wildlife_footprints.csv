@@ -1,0 +1,101 @@
+image_path,species,location,confidence_score
+footprints/coyote1.jpg,Coyote,Forest,0.86
+footprints/elephant2.jpg,Elephant,Tropical Forest,0.83
+footprints/lion3.jpg,Lion,Savannah,0.9
+footprints/elephant4.jpg,Elephant,Tropical Forest,0.85
+footprints/lion5.jpg,Lion,Grassland,0.93
+footprints/lion6.jpg,Lion,Grassland,0.84
+footprints/elephant7.jpg,Elephant,Tropical Forest,0.95
+footprints/elephant8.jpg,Elephant,Savannah,0.87
+footprints/lion9.jpg,Lion,Savannah,0.97
+footprints/lion10.jpg,Lion,Savannah,0.87
+footprints/coyote11.jpg,Coyote,Forest,0.89
+footprints/elephant12.jpg,Elephant,Savannah,0.89
+footprints/coyote13.jpg,Coyote,Forest,0.87
+footprints/elephant14.jpg,Elephant,Savannah,0.89
+footprints/lion15.jpg,Lion,Grassland,0.81
+footprints/lion16.jpg,Lion,Grassland,0.98
+footprints/coyote17.jpg,Coyote,Grassland,0.96
+footprints/lion18.jpg,Lion,Savannah,0.85
+footprints/lion19.jpg,Lion,Grassland,0.82
+footprints/coyote20.jpg,Coyote,Grassland,0.81
+footprints/coyote21.jpg,Coyote,Desert,0.9
+footprints/elephant22.jpg,Elephant,Tropical Forest,0.94
+footprints/lion23.jpg,Lion,Grassland,0.84
+footprints/lion24.jpg,Lion,Grassland,0.95
+footprints/elephant25.jpg,Elephant,Savannah,0.9
+footprints/lion26.jpg,Lion,Savannah,0.9
+footprints/coyote27.jpg,Coyote,Grassland,0.93
+footprints/elephant28.jpg,Elephant,Tropical Forest,0.92
+footprints/lion29.jpg,Lion,Savannah,0.97
+footprints/lion30.jpg,Lion,Savannah,0.89
+footprints/coyote31.jpg,Coyote,Desert,0.88
+footprints/lion32.jpg,Lion,Grassland,0.8
+footprints/elephant33.jpg,Elephant,Savannah,0.85
+footprints/elephant34.jpg,Elephant,Savannah,0.85
+footprints/coyote35.jpg,Coyote,Forest,0.98
+footprints/coyote36.jpg,Coyote,Desert,0.89
+footprints/elephant37.jpg,Elephant,Savannah,0.83
+footprints/elephant38.jpg,Elephant,Tropical Forest,0.84
+footprints/elephant39.jpg,Elephant,Savannah,0.91
+footprints/coyote40.jpg,Coyote,Desert,0.97
+footprints/elephant41.jpg,Elephant,Savannah,0.86
+footprints/coyote42.jpg,Coyote,Desert,0.95
+footprints/coyote43.jpg,Coyote,Grassland,0.82
+footprints/elephant44.jpg,Elephant,Savannah,0.84
+footprints/coyote45.jpg,Coyote,Grassland,0.97
+footprints/elephant46.jpg,Elephant,Savannah,0.96
+footprints/elephant47.jpg,Elephant,Savannah,0.89
+footprints/lion48.jpg,Lion,Grassland,0.91
+footprints/lion49.jpg,Lion,Savannah,0.91
+footprints/elephant50.jpg,Elephant,Savannah,0.99
+footprints/lion51.jpg,Lion,Savannah,0.95
+footprints/elephant52.jpg,Elephant,Tropical Forest,0.82
+footprints/elephant53.jpg,Elephant,Savannah,0.93
+footprints/coyote54.jpg,Coyote,Grassland,0.89
+footprints/elephant55.jpg,Elephant,Tropical Forest,0.93
+footprints/coyote56.jpg,Coyote,Grassland,0.89
+footprints/coyote57.jpg,Coyote,Grassland,0.95
+footprints/coyote58.jpg,Coyote,Grassland,0.88
+footprints/lion59.jpg,Lion,Grassland,0.85
+footprints/elephant60.jpg,Elephant,Savannah,0.99
+footprints/coyote61.jpg,Coyote,Grassland,0.88
+footprints/coyote62.jpg,Coyote,Desert,0.99
+footprints/lion63.jpg,Lion,Savannah,0.94
+footprints/elephant64.jpg,Elephant,Tropical Forest,0.87
+footprints/lion65.jpg,Lion,Savannah,0.8
+footprints/lion66.jpg,Lion,Grassland,0.88
+footprints/elephant67.jpg,Elephant,Tropical Forest,0.98
+footprints/coyote68.jpg,Coyote,Grassland,0.98
+footprints/lion69.jpg,Lion,Grassland,0.86
+footprints/lion70.jpg,Lion,Grassland,0.92
+footprints/coyote71.jpg,Coyote,Desert,0.98
+footprints/lion72.jpg,Lion,Grassland,0.96
+footprints/lion73.jpg,Lion,Grassland,0.97
+footprints/coyote74.jpg,Coyote,Desert,0.89
+footprints/coyote75.jpg,Coyote,Grassland,0.91
+footprints/lion76.jpg,Lion,Savannah,0.89
+footprints/elephant77.jpg,Elephant,Tropical Forest,0.82
+footprints/lion78.jpg,Lion,Savannah,0.89
+footprints/lion79.jpg,Lion,Grassland,0.89
+footprints/coyote80.jpg,Coyote,Forest,0.93
+footprints/lion81.jpg,Lion,Grassland,0.96
+footprints/coyote82.jpg,Coyote,Desert,0.9
+footprints/elephant83.jpg,Elephant,Tropical Forest,0.89
+footprints/coyote84.jpg,Coyote,Grassland,0.87
+footprints/lion85.jpg,Lion,Savannah,0.89
+footprints/lion86.jpg,Lion,Grassland,0.85
+footprints/coyote87.jpg,Coyote,Desert,0.96
+footprints/coyote88.jpg,Coyote,Grassland,0.84
+footprints/coyote89.jpg,Coyote,Desert,0.91
+footprints/elephant90.jpg,Elephant,Savannah,0.89
+footprints/lion91.jpg,Lion,Grassland,0.93
+footprints/coyote92.jpg,Coyote,Desert,0.96
+footprints/coyote93.jpg,Coyote,Forest,0.95
+footprints/lion94.jpg,Lion,Savannah,0.89
+footprints/elephant95.jpg,Elephant,Tropical Forest,0.91
+footprints/lion96.jpg,Lion,Savannah,0.82
+footprints/elephant97.jpg,Elephant,Tropical Forest,0.89
+footprints/lion98.jpg,Lion,Grassland,0.96
+footprints/elephant99.jpg,Elephant,Tropical Forest,0.89
+footprints/elephant100.jpg,Elephant,Savannah,0.8
