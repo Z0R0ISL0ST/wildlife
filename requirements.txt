@@ -8,6 +8,5 @@ matplotlib
 seaborn
 streamlit
 boto3
-opencv-python-headless
 libgl1
 libglib2.0-0
